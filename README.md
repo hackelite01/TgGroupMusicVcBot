@@ -11,6 +11,10 @@ Neither this, or PyTgCalls are fully stable.
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
+### Credits
+
+[!ItzMe] (https://github.com/ballicipluck)
+
 ## Deployment
 
 ### Config
