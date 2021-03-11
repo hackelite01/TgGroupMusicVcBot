@@ -13,7 +13,7 @@ Neither this, or PyTgCalls are fully stable.
 
 ### Credits
 
-[!ItzMe] (https://github.com/ballicipluck)
+[ItzMe] (https://github.com/ballicipluck)
 
 ## Deployment
 
