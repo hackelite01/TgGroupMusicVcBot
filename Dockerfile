@@ -19,4 +19,4 @@ RUN git clone https://github.com/pytgcalls/pytgcalls && \
     cd ../
 COPY . /app/
 RUN pip3 install -r requirements.txt
-CMD ["bash","start.sh"]
+CMD ["python3","main.py"]
